@@ -4,12 +4,14 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("KoloBazilla")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("Koło Bazilla: The Game")]
+[assembly: AssemblyDescription("Gra imprezowa stworzona między przyjaciółmi. Alkohol jest wymagany." +
+                               " Pomysłodawcą i twórcą gry jest Michał Antoszczyszyn," +
+                               " a tytułowym Bazillem jest Piotr Klause. Kochamy Was!")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("KoloBazilla")]
-[assembly: AssemblyCopyright("")]
+[assembly: AssemblyCompany("Twoje Radio Rekieterzy")]
+[assembly: AssemblyProduct("Koło Bazilla: The Game")]
+[assembly: AssemblyCopyright("Copyright © Martyna Słówko 2022")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

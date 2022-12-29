@@ -189,5 +189,11 @@ namespace KoloBazilla
             }
             catch { }
         }
+
+        private void about_button_Click(object sender, EventArgs e)
+        {
+            AboutBox about = new AboutBox();
+            about.ShowDialog();
+        }
     }
 }

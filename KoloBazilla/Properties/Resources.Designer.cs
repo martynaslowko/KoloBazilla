@@ -63,6 +63,16 @@ namespace KoloBazilla.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap AboutBoxPic {
+            get {
+                object obj = ResourceManager.GetObject("AboutBoxPic", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap animal_gecca_rescale {
             get {
                 object obj = ResourceManager.GetObject("animal-gecca_rescale", resourceCulture);

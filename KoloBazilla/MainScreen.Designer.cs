@@ -179,6 +179,7 @@
             this.about_button.TabIndex = 7;
             this.about_button.Text = "Giga koxy";
             this.about_button.UseVisualStyleBackColor = false;
+            this.about_button.Click += new System.EventHandler(this.about_button_Click);
             // 
             // players_label
             // 
@@ -417,7 +418,7 @@
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximizeBox = false;
             this.Name = "MainScreen";
-            this.Text = "Koło Bazilla";
+            this.Text = "Koło Bazilla: The Game";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             ((System.ComponentModel.ISupportInitialize)(this.bgslash_box)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.wheel_box)).EndInit();
