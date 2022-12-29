@@ -16,6 +16,7 @@ namespace KoloBazilla
             wheel_button.Enabled = false;
             newPassword_button.Enabled = false;
             showPassword_button.Enabled = false;
+            checkLetter_button.Enabled = false;
         }
 
         private Game GetNewGame(ObservableCollection<Player> players, string password, int vowelPrice)
