@@ -186,6 +186,7 @@ namespace KoloBazilla
                 nw.Close();
                 wheelResult_label.Text = string.Empty;
                 showPassword_button.Enabled = true;
+                incorrectLetters_box.Clear();
                 StartTurn();
             }
             catch { }
