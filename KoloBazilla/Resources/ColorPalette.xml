@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<palette>
+	<color name="Zomp" hex="45A08A" r="69" g="160" b="138" />
+	<color name="Ocean Green" hex="56C596" r="86" g="197" b="150" />
+	<color name="Middle Blue Green" hex="99CFC3" r="153" g="207" b="195" />
+	<color name="Viridian Green" hex="329D9C" r="50" g="157" b="156" />
+	<color name="Space Cadet" hex="232448" r="35" g="36" b="72" />
+	<color name="Space Cadet" hex="181735" r="24" g="23" b="53" />
+</palette>
