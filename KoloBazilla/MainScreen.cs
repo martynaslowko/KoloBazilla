@@ -87,6 +87,7 @@ namespace KoloBazilla
                 }
                 if (_game.currentField.name == Field.turnLoss.name)
                 {
+                    _game.currentPlayer.vowelBought = false;
                     StartTurn();
                 }
             }
