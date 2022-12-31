@@ -224,6 +224,7 @@
             this.Controls.Add(this.addPlayer_button);
             this.Controls.Add(this.playerName_tb);
             this.Controls.Add(this.playersList);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "NewGame";
             this.Text = "Nowa gra";
